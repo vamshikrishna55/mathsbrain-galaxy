@@ -1,0 +1,18 @@
+# root
+node_modules
+dist
+.vscode
+.DS_Store
+
+# client
+client/node_modules
+client/dist
+
+# server
+server/node_modules
+server/dist
+server/.env
+
+# any env files
+.env
+*.env
