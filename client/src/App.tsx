@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import "./styles.css";
 
-const API_BASE = "http://localhost:4000";
+const API_BASE = import.meta.env.VITE_API_BASE_URL || "http://localhost:4000";;
 
 const SYMBOLS = ["+", "-", "×", "÷", "√", "π", "∞", "≈", "≥", "≤", "%"];
 const COLORS = ["#ffffff", "#ffd84d", "#61e294", "#6aa9ff", "#ff7ac3"];
