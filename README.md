@@ -22,7 +22,6 @@ It helps children solve math problems in a fun, cosmic interface — guided by a
 |-----------|-------------|--------------|
 | ![Homepage](./screenshots/home.png) | ![Ask Section](./screenshots/question.png) | ![AI Response](./screenshots/answer.png) |
 
-> 💡 Create a folder called `screenshots` in your project root and drop the images there.
 
 ---
 
@@ -42,7 +41,7 @@ It helps children solve math problems in a fun, cosmic interface — guided by a
 
 ### 1️⃣ Clone the project
 ```bash
-git clone https://github.com/vamshi-attla/mathsbrain-galaxy.git
+git clone https://github.com/vamshikrishna55/mathsbrain-galaxy.git
 cd mathsbrain-galaxy
 ```
 
@@ -79,22 +78,7 @@ Open browser → [http://localhost:5173](http://localhost:5173)
 
 ### **Vamshi Krishna Reddy Attla**
 📍 *Melbourne, Florida*  
-📧 [vamshi061102@gmail.com](mailto:vamshi061102@gmail.com)  
-📞 (321) 381-1351  
-🎓 Master’s in Computer Science, Florida Institute of Technology — May 2025
-
-**Data/BI Analyst** specializing in SQL, Spark, Snowflake, dbt/Airflow, and Power BI/Tableau.  
-Built analytics solutions for supply chain, e-commerce, and healthcare domains, improving operations, costs, and insights.  
-
-**Technical Skills:**  
-Power BI · Tableau · Snowflake · Airflow · dbt · Spark · SQL · Python · AWS · GCP · Kafka · Terraform · Jenkins
-
-**Highlighted Projects:**  
-- **Supply Chain Ops Analytics** – Built dashboards and dbt pipelines cutting runtime by 41%.  
-- **HIPAA-Ready Dental Claims Lakehouse** – Reduced data-quality incidents by 50%, automated claim ingestion by 85%.  
-- **Real-Time Feature Store** – Delivered low-latency recommendation features improving add-to-cart rates by 5%.  
-- **Team Collaboration App** – Full-stack Java + React web app with AWS deployment.
-
+📧 [vamshi061102@gmail.com](mailto:vamshi061102@gmail.com)   
 ---
 
 ## 🚀 Roadmap
@@ -103,14 +87,6 @@ Power BI · Tableau · Snowflake · Airflow · dbt · Spark · SQL · Python · 
 - [ ] Deploy backend on Render with environment variables  
 - [ ] Add progress tracking and quiz system  
 - [ ] Gamify with XP and badges 🌟  
-
----
-
-## 🧠 Author Links
-
-- [LinkedIn](https://linkedin.com/in/vamshi-attla)
-- [GitHub](https://github.com/vamshi-attla)
-- [Portfolio](#)
 
 ---
 
